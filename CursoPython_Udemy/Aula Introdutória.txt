@@ -1,0 +1,4 @@
+- O código é sempre executado linha por linha
+- De cima para baixo até o fim ou até encontrar algum erro
+- No console é mostrado os resultados dos códigos
+- O "resultado" do código que é apresentado no console é chamado de OutPut
